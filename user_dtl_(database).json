@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "618aa00ec40f0000ea003a0d"
+  },
+  "first_name": "Pranay",
+  "last_name": "Surve",
+  "dob": "1997-10-27",
+  "city": "Bhy"
+},{
+  "_id": {
+    "$oid": "618aa549c40f0000ea003a0e"
+  },
+  "first_name": "Deepak",
+  "last_name": "Salvi",
+  "dob": "1997-10-10",
+  "city": "Mira Road"
+},{
+  "_id": {
+    "$oid": "618ab842c40f0000ea003a12"
+  },
+  "first_name": "Ravi",
+  "last_name": "Shankar",
+  "dob": "1999-05-06",
+  "city": "Malad"
+},{
+  "_id": {
+    "$oid": "618ab931c40f0000ea003a13"
+  },
+  "first_name": "Sonu",
+  "last_name": "Sid",
+  "dob": "1888-04-06",
+  "city": "Mumbai - 42"
+},{
+  "_id": {
+    "$oid": "618abc02c40f0000ea003a15"
+  },
+  "first_name": "Demo",
+  "last_name": "Customer",
+  "dob": "1999-02-20",
+  "city": "Thane"
+},{
+  "_id": {
+    "$oid": "618abf31c40f0000ea003a16"
+  },
+  "first_name": "Demo ",
+  "last_name": "test",
+  "dob": "2000-06-05",
+  "city": "Vasai"
+}]
